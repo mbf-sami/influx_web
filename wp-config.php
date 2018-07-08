@@ -23,10 +23,11 @@
 define('DB_NAME', 'influx_db');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'dolarge');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'Ri@dm!n17
+');
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1');
